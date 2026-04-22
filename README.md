@@ -30,7 +30,7 @@ A simple Python port scanner that checks for open ports on a target IP address. 
    ✅ Scan complete. Found 1 open port(s).
    Open ports: [22]
    
- **What I Learned**
+ ## What I Learned
    
    TCP/IP and how ports work
     
