@@ -16,26 +16,27 @@ A simple Python port scanner that checks for open ports on a target IP address. 
 
 2. **Enter an IP address when prompted (e.g., 8.8.8.8 or your own server IP)**
 
-Example Output
+   Example Output
 
-```text
-Enter IP address to scan: 8.230.114.131
+   ```text
+   Enter IP address to scan: 8.230.114.131
 
-Scanning 8.230.114.131 for common open ports...
+   Scanning 8.230.114.131 for common open ports...
 
-❌ Port 21 is closed
-✅ Port 22 is OPEN
-❌ Port 23 is closed
-...
-✅ Scan complete. Found 1 open port(s).
-Open ports: [22]
-
+   ❌ Port 21 is closed
+   ✅ Port 22 is OPEN
+   ❌ Port 23 is closed
+   ...
+   ✅ Scan complete. Found 1 open port(s).
+   Open ports: [22]
 ```
-** What I Learned** 
-TCP/IP and how ports work
+```
+**What I Learned** 
 
-Socket programming in Python
+   TCP/IP and how ports work
 
-Connection timeouts
+   Socket programming in Python
 
-Basic security scanning concepts
+   Connection timeouts
+
+   Basic security scanning concepts
