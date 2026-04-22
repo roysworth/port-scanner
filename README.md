@@ -30,12 +30,8 @@ A simple Python port scanner that checks for open ports on a target IP address. 
    ✅ Scan complete. Found 1 open port(s).
    Open ports: [22]
    
-**What I Learned** 
-
-   TCP/IP and how ports work
-
-   Socket programming in Python
-
-   Connection timeouts
-
-   Basic security scanning concepts
+ **What I Learned**
+    TCP/IP and how ports work
+    Socket programming in Python
+    Connection timeouts
+    Basic security scanning concepts
